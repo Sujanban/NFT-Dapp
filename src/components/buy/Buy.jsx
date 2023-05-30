@@ -2,6 +2,6 @@ import React from 'react'
 
 export const Buy = () => {
   return (
-    <div>Buy NFT</div>
+    <div className="mt-[10vh]">Buy NFT</div>
   )
 }
